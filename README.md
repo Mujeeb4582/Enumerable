@@ -125,20 +125,20 @@ Clone this repository to your desired folder:
 
 Install this project with:
 
-**you can run any one of these commands to install npm on your machine:**
+**you can run any one of these commands to install bundle on your machine:**
 
 - bundle install
-- sudo apt install
+- sudo apt bundle install (for Linux)
 
 ### Usage
 
 To run the project, execute the following command:
 
-- npm start.
+- bundle start.
 
 ### Run tests
 
-- npm test.
+- bundle test.
 
 ### Deployment
 
